@@ -2,23 +2,28 @@ Description:
 
 This project aims to develop a data pipeline that consumes data from various sources to produce the user story.
 
+
 Prerequisites:
 
 Python 3.13
 
 Java 17
 
+
 Input:
 
 Constomers data (csv), products data (csv), and transactions data (json).
+
 
 Output:
 
 A summary of constomers' purchases of products.
 
+
 Generate Input Data:
 
 Run data_generator\main_data_generator.py
+
 
 Miscellaneous:
 

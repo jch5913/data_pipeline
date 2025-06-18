@@ -29,4 +29,4 @@ Miscellaneous:
 
 You will need to create three folders in your project folder: logs, output_data, corrupt_data.
 
-You will need to set you project folder path in the two ini files in configs\: logging.ini (line 33), and settings.ini (lines 2-4).
+You will need to set you project folder path in the two ini files in the configs folder: logging.ini (line 33), and settings.ini (lines 2-4).

@@ -1,6 +1,6 @@
 Description:
 
-This project aims to develop a data pipeline that consumes data from various sources to produce the user story.
+This project aims to develop a data pipeline that aggregate data from various sources to produce the user story.
 
 
 Prerequisites:
@@ -12,12 +12,12 @@ Java 17
 
 Input:
 
-Constomers data (csv), products data (csv), and transactions data (json).
+Customers data (csv), products data (csv), and transactions data (json).
 
 
 Output:
 
-A summary of constomers' purchases of products.
+A summary of customers' purchases of products.
 
 
 Generate Input Data:
